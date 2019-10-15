@@ -1,0 +1,8 @@
+ul.insidelistbullets{
+    list-style-type: circle;
+    color: #848484;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.929;
+}
